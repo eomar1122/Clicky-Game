@@ -1,0 +1,14 @@
+.wrapper {
+  background: #eee;
+  /* background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('https://www.walldevil.com/wallpapers/a87/family-guy-cartoon-wallpapers-funny-background-desktop-wallpaper.jpg'); */
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+  align-content: flex-start;
+  overflow: auto;
+  padding-bottom: 50px;
+}
